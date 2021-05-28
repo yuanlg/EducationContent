@@ -6,10 +6,10 @@
 ### @explicitHints 1
 
 
-# Program the Agent to move up to the gold plate!
+# 编写程序让代理机器人到达黄金块上!
 
-## Step 1
-Program the Agent to reach the gold plate. You need to stay on your gold plate, while the Agent needs to stay on the other one. When done, press the **Play** buton to compile the code. Go to Minecraft to run your code.
+## 第一步
+编写程序让机器人移动到黄金块上。你需要留在你的黄金快上，而机器人需要留在另一个黄金快上。完成后，按**播放**按钮编译代码。去Minecraft运行你的代码。
 
 
 ```ghost
