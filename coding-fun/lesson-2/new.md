@@ -3,9 +3,9 @@
 ### @explicitHints 1
 
 
-# No code is required for this activity. 
-## Step 1
-No code is required for this activity. 
+# 当前活动不需要编码. 
+## 第一步
+当前活动不需要编码. 
 
 ```blocks
 player.onChat("run", function () {
