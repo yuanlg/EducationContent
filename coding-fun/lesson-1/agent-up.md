@@ -6,10 +6,10 @@
 ### @explicitHints 1
 
 
-# Program the Agent to move up to the gold plate!
+# 通过编程让机器人到黄金块上去！
 
 ## Step 1
-Use ``||player:on chat||`` and  ``||agent:agent move||`` commands to program the Agent to move towards the gold plate. You can program the Agent to move **up**. When done, press the **Play** button to compile the code. Go to Minecraft to run your code in game.
+使用 ``||player:当聊天命令为 时|`` 和  ``||agent: 代理机器人移动方向 前 距离 1||`` 命令快 让机器人移动到黄金块上. 你可以编程让机器人向 **上**移动. 完成后，按**播放**按钮编译代码，然后进入Minecraft，按**t**并输入**1**，然后按回车键。
 
 
 
