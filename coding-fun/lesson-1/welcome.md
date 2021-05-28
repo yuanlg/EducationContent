@@ -2,8 +2,8 @@
 ### @hideIteration true 
 ### @explicitHints 1
 
-## Step 1
-Welcome your Agent!
+## 第一步
+欢迎你的机器人!
 
 
 ```ghost
