@@ -6,10 +6,10 @@
 ### @explicitHints 1
 
 
-# Program the Agent to move along the turtle tracks!
+# 让机器人沿着海龟的足迹移动!
 
-## Step 1
-Move the Agent along the turtle tracks by using an ``||agent: agent move forward||`` block to the gates. When done, press the **Play** button to compile the code. Don't forget to run your code in Minecraft. 
+## 第一步
+通过使用``||agent: 代理机器人移动方向 前 距离 1 ||`` 和 ``||agent: 代理机器人转动方向 左 ||``指令快让机器人沿着海龟足迹移动.完成后，按播放按钮编译代码，不要忘记在Minecraft里运行你的代码. 
 
 ```ghost
 player.onChat("tracks", function () {
