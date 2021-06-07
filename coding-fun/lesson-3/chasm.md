@@ -5,10 +5,10 @@
 ### @explicitHints 1
 
 
-# The great chasm!
+# 大峡谷
 
-## Step 1
-Program the Agent to **build a bridge** across the chasm in the ice. Use ``||agent:set block or item||`` to ensure that the Agent has the necessary materials in the inventory. Select the **oak** as a building material & **64** for the **amount of blocks**. ``||loops:while||`` the Agent does **not** detect blocks down, program the Agent to place the oak planks **down** and move **forward** to create a bridge.    
+## 第一步
+编程让代理机器人在冰裂缝上 **建一座桥** . 使用 ``||获得方块或物品||`` 指令确保代理机器人的背包中有所需要的物品. 选择**橡木**作为建桥材料，数量选择**64**. ``||loops:循环||`` 代理机器人 **非** 检测到前面有方块, 编写代码让代理机器人向 **下**放置橡木并向**前**移动来修建桥.    
 
 
 ```template
