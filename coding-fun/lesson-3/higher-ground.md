@@ -5,19 +5,19 @@
 ### @explicitHints 1
 
 
-# Higher Ground!
+# 高地!
 
-## Step 1
-Program the Agent to build a tower with **oak** blocks that is **10** blocks high. First, ensure that the Agent has **64** blocks of **oak plank**  using ``||agent:set block or item||`` command. Program the Agent to place oak planks **forward**, **left** & **right** by using ``||agent:agent place||`` block. The Agent needs to **move up** after placing the blocks.  
+## 第一步
+编程让代理机器人使用**10**块**橡木** 方块建造一个塔. 首先使用 ``||agent:代理机器人获取方块或物品||``指令获取**64** 块 **橡木**方块. 然后使用``||agent:代理机器人放置方向||`` 指令向**前**, **左** & **右** 放置橡木块. 代理机器人放置后需要**向上移动** .  
 
-#### ~ tutorialhint 
-Try using ``||loops:repeat||`` block and change the number to **10**. 
+#### ~ 教程提示 
+ 尝试使用``||loops:循环||`` 命令块 同时把循环次数修改为 **10**. 
 
-## Step 2
-Program the Agent to move **down** from the tower and construct **ladder** that is **10** blocks high. You need the ladder so that you can climb up!
+## 第二步
+编程让代理机器人从塔上向下移动同时建造 **10** 块高的 **梯子** . 你需要梯子才能爬上去!
 
-#### ~ tutorialhint 
-Don't forget to select **64** blocks of **ladder** in the Agent's inventory using ``||agent: agent set block||``, so that the Agent can place the ladder. 
+#### ~ 教程提示 
+不要忘了使用``||agent: 代理机器人获取方块或物品||``指令，并指定 **64** 块 **梯子**  , 让后让代理机器人把梯子放好. 
 
 
 ```ghost
