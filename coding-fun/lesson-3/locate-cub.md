@@ -5,13 +5,13 @@
 ### @explicitHints 1
 
 
-# Locate the cub!
+# 寻找cub!
 
 ## Step 1
-Program the Agent to dig a path without knowing how far it goes by using ``||loops:while||`` & ``||agent:agent detect||`` commands. The Agent needs to ``||agent:destroy forward & up||`` for you to be able to walk through all the snow! When done, press the **Play** button to compile the code. Don't forget to run your code in Minecraft. 
+编程让代机器人挖掘通道，当不知道要挖多远时，需要使用 ``||loops:循环||`` & ``||agent:代理机器人检测||`` 指令.代理机器人需要使用 ``||agent:代理机器人摧毁 方向 上||`` 指令帮你从雪中走出来! 代码编写好后, 按下 **播放** 按钮来编译代码.不要忘了在mc中执行你的代码. 
 
-#### ~ tutorialhint 
-Look at the coding snippets shapes when you snap them together. Use ``||agent:agent move forward||``.
+#### ~ 教学提示 
+当你把代码编写好后仔细检查一下. 使用 ``||agent:代理机器人移动方向 前||``.
 
 ```template
 player.onChat("cub", function () {
