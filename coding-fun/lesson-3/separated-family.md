@@ -5,13 +5,13 @@
 ### @explicitHints 1
 
 
-# Separated Family!
+# 分离的家庭!
 
-## Step 1
-Program the Agent to build a bridge across the chasm in the ice. Ensure that the Agent has **64** blocks of **oak planks** in the inventory. 
+## 第一步
+让代理机器人在冰裂缝上建桥. 确保代理机器人的背包里有 **64** 块  **橡木板**. 
 
-#### ~ tutorialhint 
-Don't forget to use **not** in your **while** loop. Think where you want the Agent to place blocks. 
+#### ~ 教学提示 
+不要忘记在**循环**指令中使用 **非** 指令. 想想你想让代理机器人把橡木板放在哪里. 
 
 
 ```ghost
